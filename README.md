@@ -4,6 +4,8 @@
 
 Minimalistic [*Create React App*](https://github.com/facebook/create-react-app) starter
 
+UNDER DEVELOPMENT
+
 ## Feature tags
 
 - build
