@@ -24,7 +24,7 @@ UNDER DEVELOPMENT
 
 ## Author
 
-[Alexander Lapygin](https://github.com/AlexanderLapygin)
+TBD
 
 ### License
 
