@@ -8,7 +8,6 @@ UNDER DEVELOPMENT
 
 ## Feature tags
 
-- build
 - create-react-app
 - starter
 - template
