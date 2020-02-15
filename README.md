@@ -14,8 +14,8 @@ UNDER DEVELOPMENT
 
 ## Direct descendants - also by code
 
-[*cra-maven-war-starter*](https://github.com/softspiders/cra-maven-war-starter)
-[*cra-ie11-starter*](https://github.com/softspiders/cra-ie11-starter)
+- [*cra-maven-war-starter*](https://github.com/softspiders/cra-maven-war-starter)
+- [*cra-ie11-starter*](https://github.com/softspiders/cra-ie11-starter)
 
 ## Requirements
 
