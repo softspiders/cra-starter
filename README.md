@@ -25,7 +25,7 @@ UNDER DEVELOPMENT
 
 ## Author
 
-TBD
+[BorisovAV](https://github.com/BorisovAV)
 
 ### License
 
